@@ -1,0 +1,20 @@
+﻿[
+  {
+    "title": "Blog Description",
+    "url": "/blog",
+    "description": "A description of the blog.",
+    "domain": "blog"
+  },
+  {
+    "title": "About Us",
+    "url": "/about",
+    "description": "Learn more about our team and mission.",
+    "domain": "about"
+  },
+  {
+    "title": "Contact",
+    "url": "/contact",
+    "description": "Get in touch with us.",
+    "domain": "contact"
+  }
+]

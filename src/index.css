@@ -1,0 +1,43 @@
+/* 全局样式重置 */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: 'Inter', system-ui, sans-serif;
+  background-color: #F8FAFC;
+  color: #1E293B;
+  line-height: 1.6;
+}
+
+/* 全局容器样式 - 统一页面所有内容的约束 */
+.container {
+  width: 100%;
+  max-width: 72rem; /* 保持最大宽度一致 */
+  margin: 0 auto;   /* 水平居中 */
+  padding: 0 1rem;  /* 左右内边距一致 */
+}
+
+/* 页脚样式调整（全局唯一） */
+.page-footer {
+  background-color: #1E293B;
+  color: white;
+  padding: 2rem 0;
+  width: 100%; /* 使用100%，避免100vw造成的水平滚动条和两侧空白 */
+  box-sizing: border-box;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.footer-content {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+
+/* 其他原有样式保持不变... */

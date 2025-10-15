@@ -1,0 +1,15 @@
+﻿.search-results { font-family: 'Roboto', system-ui, -apple-system, Segoe UI, Arial, sans-serif; color:#202124; }
+.sr-header { display:flex; justify-content:center; padding:32px 16px; border-bottom:1px solid #eee; }
+.sr-searchbar { display:flex; width: min(720px, 92vw); gap:12px; }
+.sr-input { flex:1; padding:12px 16px; border:1px solid #dadce0; border-radius:24px; font-size:16px; box-shadow: 0 1px 6px rgba(32,33,36,.18); }
+.sr-button { padding:12px 20px; border:none; border-radius:24px; background:#4285f4; color:#fff; cursor:pointer; font-size:16px; }
+.sr-button:hover { background:#357ae8; }
+.sr-main { max-width: 720px; margin: 24px auto; padding: 0 16px; }
+.sr-status { color:#5f6368; padding: 8px 0; }
+.sr-list { list-style:none; margin:0; padding:0; display:flex; flex-direction:column; gap:20px; }
+.sr-item { }
+.sr-title { font-size:20px; color:#1a0dab; text-decoration:none; }
+.sr-title:hover { text-decoration:underline; }
+.sr-link { color:#006621; font-size:12px; margin-top:4px; }
+.sr-desc { color:#4d5156; margin:6px 0 0; line-height:1.6; }
+

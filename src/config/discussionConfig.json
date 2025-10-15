@@ -1,0 +1,9 @@
+﻿{
+  "platform": "Giscus",
+  "repo": "username/repository",
+  "repoId": "REPO_ID",
+  "category": "General",
+  "categoryId": "CATEGORY_ID",
+  "description": "加入讨论"
+}
+
