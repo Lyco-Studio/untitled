@@ -62,7 +62,7 @@ function Intro() {
         {/* 页脚 */}
         <footer className="page-footer">
             <div className="footer-content">
-                <p className="copyright-text">© 2025 游戏世界 版权所有</p>
+                <p className="copyright-text">LyCo Studio, 2025 All rights reserved</p>
             </div>
         </footer>
         </>
