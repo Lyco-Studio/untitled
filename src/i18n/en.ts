@@ -1,0 +1,11 @@
+﻿import type { TranslationDict } from './TranslationKeys';
+
+const en: TranslationDict = {
+  welcome: 'Welcome to the Game World!',
+  exploreAdventure: 'Explore the Unknown Adventure',
+  gameIntro: "Welcome to our game! Here you will embark on a journey full of challenges and surprises. Whether it's puzzles, battles or cooperation, our game offers a unique experience. Ready? Let's begin!",
+  joinDiscussion: 'Join the Discussion',
+  discussionDescription: 'Join our discussion area to interact with players worldwide, explore strategies, share insights, or just chat about your adventure stories!'
+};
+
+export default en;
